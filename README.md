@@ -14,6 +14,7 @@
   - [Numerical Precision Tests](#numerical-precision-tests)
   - [Edge Case Scenarios](#edge-case-scenarios)
 - [Analysis](#analysis)
+- [Methodology](#methodology)
 - [Conclusion](#conclusion)
 
 ## Overview
@@ -538,6 +539,17 @@ The anti-hallucination system demonstrated consistent protective behaviors:
 | Edge Case                    | Outlines made-up protocols                   | Analyzes based on frameworks, stresses speculation |
 
 ---
+
+## Methodology
+
+This breakthrough was accomplished through a **proprietary prompt engineering system** - no model retraining, no fine-tuning, no billions in compute.
+
+- Works as a **wrapper** for any existing LLM
+- Deployable in **minutes** not months
+- **Patent-pending methodology**
+- Successfully tested across **all major AI models**
+
+The exact methodology is available for licensing or acquisition.
 
 ## Conclusion
 
